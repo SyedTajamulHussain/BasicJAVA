@@ -10,7 +10,7 @@ public class LocalAndglobalVariables {
 		int a;
 		//Local variables contain garbage values
 
-		System.out.println(a);
+		//System.out.println(a);
 		System.out.println(b);
 
 	}
