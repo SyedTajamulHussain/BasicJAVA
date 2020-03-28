@@ -4,6 +4,8 @@ public class Switchdemo {
 
 	public static void main(String[] args) {
 		switchexample();
+		
+		
 		int x = 4;
 		
 		switch (x) {
