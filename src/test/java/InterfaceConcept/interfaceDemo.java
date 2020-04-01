@@ -12,7 +12,7 @@ public class interfaceDemo implements Interface {
 		obj.Substraction();
 		obj.multiplicaton();
 		
-		//Base Class reference and Base Class object : this will allow only access methods of base class only.
+		//Base Class reference and child Class object : this will allow only access methods of base class only.
 		
 		Interface obj1 = new interfaceDemo();
 		obj1.add();
